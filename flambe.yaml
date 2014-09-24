@@ -24,7 +24,7 @@ orientation: portrait
 fullscreen: true
 
 # Additional flags to pass to the Haxe compiler.
-haxe_flags: -swf-version 11.9
+haxe_flags: -lib golems -swf-version 11.9 
 
 # Additional paths to include in the build.
 # extra_paths:

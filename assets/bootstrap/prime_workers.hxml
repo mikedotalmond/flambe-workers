@@ -2,13 +2,13 @@
 -main urgame.PrimeIntegerGenerator
 -swf pig.swf
 -swf-version 11.9
+-lib golems
 -cp ../../src
--dce no
 
 --next
 
 ##GOLEM##
 -main urgame.PrimeIntegerGenerator
 -js pig.js
+-lib golems
 -cp ../../src
--dce no
